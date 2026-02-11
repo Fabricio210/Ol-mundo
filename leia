@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro a, b, c, d, media
+		a = 2
+		b = 4
+		c = 6
+		d = 3
+		leia(a,b,c,d)
+		media = (a+b+c)/d
+		escreva("o resultado da divisao é: ",media,"\n")
+	}
+}
