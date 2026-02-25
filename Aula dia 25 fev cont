@@ -1,0 +1,8 @@
+1 = int(input('Escreva o número 1:'))
+2 = int(input('Escreva o número 2:'))
+
+print('Resultado da soma:',1+2)
+print('Resultado da subtracao:',1-2)
+print('Resultado da multiplicacao:',1*2)
+print('Resultado da divisao:',1/2)
+print('Resultado da potencia:',1**2)
