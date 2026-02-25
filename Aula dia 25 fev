@@ -1,0 +1,7 @@
+num1 = int(input("Escreva o número 1 por favor: "))
+num2 = int(input("Escreva o número 2 por favor: "))
+print("A soma do valor é:",num1+num2)
+print("A subtracao do valor é",num1-num2)
+print("A divisao do valor é",num1/num2)
+print("A multiplicacao do valor é",num1*num2)
+print("A exponenciação do valor é",num1**num2)
