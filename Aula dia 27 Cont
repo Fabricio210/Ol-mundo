@@ -1,0 +1,9 @@
+Amaciante_veja = 18
+Amaciante_Brilux = 12
+if Amaciante_veja<Amaciante_Brilux:
+    mais_caro = 'O primeiro Amaciante é o mais barato'
+elif Amaciante_Brilux<Amaciante_veja:
+    mais_caro = 'O segundo Amaciante é o mais barato'
+else:
+    mais_caro = 'Ambos tem o mesmo preço'
+print(mais_caro)
