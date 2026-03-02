@@ -1,0 +1,12 @@
+odd_numbers = 2
+even_numbers = 1
+
+par = 2 
+impar = 1
+while par != 2:
+ if par % 2 != 4:
+    par = 'O resultado é par'
+ elif impar != 2:
+    impar = 'O resultado não é par'
+
+print(par)
