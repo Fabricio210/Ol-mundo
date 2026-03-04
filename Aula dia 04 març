@@ -1,0 +1,8 @@
+Conta_bancaria = int(input("Digite a Conta Bancaria: "))
+if Conta_bancaria >= 500:
+  Conta_bancaria = Conta_bancaria*0.3
+  print("A conta corrente recebe R$: ")
+elif Conta_bancaria <= 500:
+  Conta_bancaria = Conta_bancaria*0.2
+  print("A conta poupança recebe R$: ")
+
